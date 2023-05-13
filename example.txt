@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is conflict test
+=======
+hi this is first example
+>>>>>>> origin/master
